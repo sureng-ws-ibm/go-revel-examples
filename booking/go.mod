@@ -22,7 +22,7 @@ require (
 	github.com/revel/pathtree v0.0.0-20140121041023-41257a1839e9 // indirect
 	github.com/revel/revel v0.21.0
 	github.com/twinj/uuid v1.0.0 // indirect
-	github.com/valyala/fasthttp v1.12.0
+	github.com/valyala/fasthttp v1.34.0
 	github.com/xeonx/timeago v1.0.0-rc4 // indirect
 	golang.org/x/crypto v0.0.0-20200429183012-4b2356b1ed79
 	gopkg.in/fsnotify/fsnotify.v1 v1.4.7 // indirect
